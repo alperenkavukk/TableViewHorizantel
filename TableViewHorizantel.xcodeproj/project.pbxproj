@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A22BA3C22A543EC500AA86E8 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A22BA3C12A543EC500AA86E8 /* TableViewCell.swift */; };
 		A238D49B2A54372900F17D68 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A238D49A2A54372900F17D68 /* AppDelegate.swift */; };
 		A238D49D2A54372900F17D68 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A238D49C2A54372900F17D68 /* SceneDelegate.swift */; };
 		A238D49F2A54372900F17D68 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A238D49E2A54372900F17D68 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A22BA3C12A543EC500AA86E8 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		A238D4972A54372900F17D68 /* TableViewHorizantel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewHorizantel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A238D49A2A54372900F17D68 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A238D49C2A54372900F17D68 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				A238D4A32A54372B00F17D68 /* Assets.xcassets */,
 				A238D4A52A54372B00F17D68 /* LaunchScreen.storyboard */,
 				A238D4A82A54372B00F17D68 /* Info.plist */,
+				A22BA3C12A543EC500AA86E8 /* TableViewCell.swift */,
 			);
 			path = TableViewHorizantel;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A238D49F2A54372900F17D68 /* ViewController.swift in Sources */,
+				A22BA3C22A543EC500AA86E8 /* TableViewCell.swift in Sources */,
 				A238D49B2A54372900F17D68 /* AppDelegate.swift in Sources */,
 				A238D49D2A54372900F17D68 /* SceneDelegate.swift in Sources */,
 			);
